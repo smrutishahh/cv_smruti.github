@@ -1,0 +1,13 @@
+h1{color: red;
+text-align: center;
+background-color: beige;}
+
+
+div{color:rgb(255, 0, 123);}
+body{background-image: url(images/5.jpg);
+background-repeat: no-repeat; background-size:cover;}
+
+div{border: 10px solid lavender;
+border-radius: 30px;
+background-color: rgb(250, 178, 214);
+padding: 30px;}
